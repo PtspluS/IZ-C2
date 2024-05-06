@@ -1,2 +1,2 @@
 # IZ-C2
-Ansible collection of playbook for C2 
+Ansible collection of playbooks for C2 
